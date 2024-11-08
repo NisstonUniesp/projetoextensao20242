@@ -15,16 +15,23 @@ Link para os documentos:
 ## Linguagens utilizadas
 
 **HTML:**
+
 **JavaScript:**
+
 **Python:**
+
 **Java:**
 
 ## Ferramentas utilizadas
 
 **Vscode:**
+
 **GitHub:**
+
 **Trello:**
+
 **Figma:**
+
 **MySQL:**
 
 ## Instalação
