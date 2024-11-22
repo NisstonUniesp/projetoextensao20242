@@ -4,6 +4,10 @@
 
 Este projeto de extensão visa proporcionar aos alunos uma experiência prática e colaborativa na construção de um sistema de rede simplificado. Por meio dessa atividade, eles terão a oportunidade de aplicar conceitos fundamentais de arquitetura de sistemas distribuídos, e segurança da informação, além de fortalecer suas habilidades de programação. O projeto incentiva não apenas o aprendizado técnico, mas também o desenvolvimento de habilidades de trabalho em equipe e solução de problemas reais, preparando-os para desafios futuros no campo de redes de computadores.
 
+No link abaixo é possível encontrar as principais marcações para a linguagem Markdown.
+
+* [https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
 ## Documentação
 
 Aqui são apresentadas toda a documentação que foi construída no perído de construção do projeto.
